@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/AyushAgrawal/Desktop/CodeForces/CodeForces/CodeForces_800",
-      "program": "c:/Users/AyushAgrawal/Desktop/CodeForces/CodeForces/CodeForces_800/build/Debug/outDebug",
+      "cwd": "c:/Users/AyushAgrawal/Desktop/CodeForces/CodeForces/Round908(Div-2)",
+      "program": "c:/Users/AyushAgrawal/Desktop/CodeForces/CodeForces/Round908(Div-2)/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
       "setupCommands": [
