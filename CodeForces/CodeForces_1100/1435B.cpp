@@ -13,7 +13,7 @@ int main(){
         int n, m ;
         cin>>n >>m ;
         
-        int a[250000] ;
+        int a[260000] ;
         int b[600][600] ;
         
         for(int i=1; i<=n; i++){
